@@ -5,6 +5,8 @@ Este repositorio funciona con [CryptoCompare](https://min-api.cryptocompare.com)
 
 Este repositorio fue hecho como ejemplo de una API que extraiga datos de los precios de las Cripto-Monedas en tiempo real por dos metodos de comunicacion WebSocket o HTTPS 
 
+Visita [trackcoin.260mb.net](http://trackcoin.260mb.net/?i=1) Y Veras un ejemplo en tiempo real
+
 ### Vista HTTPS
 <a target="_blank" href=""/><img src="https://github.com/miventech/track_coin/blob/main/recursos/httpsDemo.png?raw=true"/></a>
 
