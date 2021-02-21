@@ -1,0 +1,58 @@
+.jaspe-about{
+    text-align: center;
+    width: 100%;
+}
+.jaspe-about span{
+    text-align: center;
+    width: 100%;
+}
+
+.about-jaspe{
+    text-align: center;
+    width: 100%;
+}
+    
+.about-jaspe span{
+    text-align: center;
+    width: 100%;
+}
+  
+.about-jaspe h5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mdl-textfield__label{
+    color: rgb(200,200,200) !important;
+}
+.jaspe-center{
+    width: 80%;
+    position: relative;
+    /*top: 10%;*/
+    padding: 10px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    margin-top: 20px;
+}
+    
+.playb{
+    background-color: darkcyan;
+}
+.stopb{
+    background-color:indianred;
+
+}
+.jaspe-top-bar{
+    margin-top: 35px;
+}
+
+* {
+	font-family: Sans-Serif;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.25em;
+}
